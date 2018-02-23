@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.nem.core</groupId>
             <artifactId>nem-core</artifactId>
-            <version>0.6.43-BETA</version>
+            <version>0.6.95-BETA</version>
         </dependency>
     </dependencies>
     
